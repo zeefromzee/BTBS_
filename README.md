@@ -1,56 +1,14 @@
-# Binary Tree Bloch Sphere Visualization Project
+## GHZ State Visualization Example
 
-## Overview
-The Binary Tree Bloch Sphere Visualization project aims to create a visual representation of quantum states using the Bloch Sphere model in conjunction with binary tree structures. This project helps in understanding quantum computing concepts through engaging visual outputs.
+The GHZ state is a fundamental example of quantum entanglement that involves multiple qubits. For a three-qubit system, the GHZ state can be represented as follows:
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+\[ |GHZ⟩ = \frac{1}{\sqrt{2}} (|000⟩ + |111⟩) \]
 
-## Features
-- **Interactive Visualization:** Users can interact with the Bloch Sphere to visualize different quantum states.
-- **Binary Tree Structure:** The binary tree representation allows users to observe the connection between classical data structures and quantum states.
-- **Customizable Parameters:** Users can customize various parameters for more tailored visualizations.
+In this example, we showcase how to visualize the GHZ state using the Bloch sphere. The Bloch sphere provides an intuitive geometrical depiction of quantum states, allowing us to understand the superposition and entangled nature of the qubits.
 
-## Installation
-To install the project, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/zeefromzee/BTBS_.git
-   cd BTBS_
-   ```
-2. Install the required dependencies:
-   ```bash
-   npm install
-   ```
+![Bloch Sphere Visualization](path/to/bloch_sphere_image.png)  
+*The binary tree structure representing the 3-qubit GHZ state.*
 
-## Usage
-To start the visualization:
-1. Run the following command in the project directory:
-   ```bash
-   npm start
-   ```
-2. Open your web browser and go to `localhost:3000` to view the visualization.
+This visualization illustrates the correlations between the qubits and can be helpful for understanding quantum computations and algorithms that utilize entangled states.  
 
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add new feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to explore this diagram for a better insight into the behavior of GHZ states in quantum mechanics.  
