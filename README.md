@@ -1,7 +1,7 @@
 # BTBS Repository
 
 ## Overview
-The BTBS (Basic Tendencies in Building Systems) repository focuses on...
+The BTBS (Binary Tree Bloch sphere) repository focuses on...
 
 ## Getting Started
 Follow these steps to set up the project:
@@ -51,7 +51,8 @@ We welcome contributions from the community. Here’s how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Thanks to all contributors and supporters. This project couldn't be possible without you!
+-This project is based on the paper titled "Bloch Sphere Binary Trees: A method for the visualization of sets of multi-qubit systems pure states" 
+-citation for the paper are: Barthe, Alice & Grossi, Michele & Tura Brugués, Jordi & Dunjko, Vedran. (2023). Bloch Sphere Binary Trees: A method for the visualization of sets of multi-qubit systems pure states. 10.48550/arXiv.2302.02957. 
 
 ## Contact
 For questions, please contact [zeefromzee](https://github.com/zeefromzee).
