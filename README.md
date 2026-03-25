@@ -1,7 +1,15 @@
 # BTBS Repository
 
 ## Overview
-The BTBS (Binary Tree Bloch sphere) repository focuses on...
+**BTBS** (Binary Tree Bloch Sphere) is a Python-based visualization tool for representing multi-qubit quantum states using binary tree structures mapped to Bloch spheres. This project implements the method described in "Bloch Sphere Binary Trees: A method for the visualization of sets of multi-qubit systems pure states" by Barthe, Grossi, Tura Brugués, and Dunjko.
+
+The tool enables intuitive visualization and analysis of complex quantum entangled states (such as GHZ states) by decomposing multi-qubit systems into a hierarchical tree structure where each node corresponds to a Bloch sphere representation. This approach provides a powerful method for understanding and visualizing quantum information in multi-qubit systems.
+
+### Key Features
+- **Multi-qubit state visualization**: Visualize quantum states with multiple qubits in an intuitive binary tree format
+- **Bloch sphere representations**: Each qubit state is represented as a point on a Bloch sphere
+- **Entangled state support**: Handle complex entangled states like GHZ states
+- **Interactive exploration**: Analyze quantum systems at different levels of hierarchy
 
 ## Getting Started
 Follow these steps to set up the project:
